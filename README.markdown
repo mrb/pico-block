@@ -5,6 +5,3 @@ Pico Block ("pblock") is a hackable ad-blocker for iOS. It's an in-progress pers
 ## Development
 
 See the [DEVELOPING.markdown](DEVELOPING.markdown) file in this repository for setup details.
-
-
-
